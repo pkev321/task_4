@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ *  Class show answer on 1st home work
+ *  tasks 4:
+ *  test Rtriangle
+ *
+ * @version 1.0
+ * @author  Kustov Pavel
+ */
+
 public class Main {
 
     public static void main(String[] args) {
